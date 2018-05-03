@@ -7,8 +7,6 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-<img alt="Landing page large screen" src="images/landing-lg.png" width=600>
-
 ## Lattitude - Latitude Analysis Dashboard with Attitude
 
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be using the data from [HW06](../../HW06-WebAPIs).
@@ -60,9 +58,13 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 #### Landing page
 
 Large screen:
+
 <img src="LandingSS3.png" alt="Ponderer!" />
 
+
+
 Small screen:
+
 <img src="LandingSS2.png" alt="Ponderer!" />
 <img src="LandingSS1.png" alt="Ponderer!" />
 ￼
@@ -70,27 +72,41 @@ Small screen:
 #### Comparisons page
 
 Large screen:
+
 <img src="ComparisonL.png" alt="Ponderer!" />
 
+
+
 Small screen:
+
 <img src="ComparisonS.png" alt="Ponderer!" />
 
 #### Data page
 
+
 Large screen:
+
 <img src="DataL.png" alt="Ponderer!" />
 
+
+
 Small screen:
+
 <img src="DataS.png" alt="Ponderer!" />
+
 
 #### Visualization pages
 
 You'll build four of these, one for each visualization. Here's an example of one:
 
 Large screen:
+
 <img src="VisualizationLarge.png" alt="Ponderer!" />
 
+
+
 Small screen:
+
 <img src="VisualizationSmall.png" alt="Ponderer!" />
 
 
