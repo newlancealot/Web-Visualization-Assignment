@@ -60,43 +60,39 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 #### Landing page
 
 Large screen:
-<img src="LandingSS1.png" alt="Ponderer!" />
+<img src="LandingSS3.png" alt="Ponderer!" />
 
 Small screen:
 <img src="LandingSS2.png" alt="Ponderer!" />
-<img src="LandingSS3.png" alt="Ponderer!" />
+<img src="LandingSS1.png" alt="Ponderer!" />
 ￼
 
 #### Comparisons page
 
 Large screen:
-![comparison page large screen](images/comparison-lg.png)
+<img src="ComparisonL.png" alt="Ponderer!" />
 
 Small screen:
-![comparison page small screen](images/comparison-sm.png)
+<img src="ComparisonS.png" alt="Ponderer!" />
 
 #### Data page
 
 Large screen:
-![data page large screen](images/data-lg.png)
+<img src="DataL.png" alt="Ponderer!" />
 
 Small screen:
-![data page small screen](images/data-sm.png)
+<img src="DataS.png" alt="Ponderer!" />
 
 #### Visualization pages
 
 You'll build four of these, one for each visualization. Here's an example of one:
 
 Large screen:
-![visualize page large screen](images/visualize-lg.png)
+<img src="VisualizationLarge.png" alt="Ponderer!" />
 
 Small screen:
-![visualize page small screen](images/visualize-sm.png)
+<img src="VisualizationSmall.png" alt="Ponderer!" />
 
-#### Navigation menu
 
-Large screen:
-![nav menu large screen](images/nav-lg.png)
 
-Small screen:
-![nav menu small screen](images/nav-sm.png)
+
