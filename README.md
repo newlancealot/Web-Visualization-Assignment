@@ -17,8 +17,6 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 ### Website Requirements
 
-For reference, see the ["Screenshots" section](#screenshots) below.
-
 The website must consist of 7 pages total, including:
 
 * A [landing page](#landing-page) containing:
@@ -59,15 +57,14 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 
 ### Screenshots
 
-
-
 #### Landing page
 
 Large screen:
-![Landing page large screen](images/landing-lg.png)
+<img src="LandingSS1.png" alt="Ponderer!" />
 
 Small screen:
-![Landing page small screen](images/landing-sm.png)
+<img src="LandingSS2.png" alt="Ponderer!" />
+<img src="LandingSS3.png" alt="Ponderer!" />
 ￼
 
 #### Comparisons page
